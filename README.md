@@ -3,6 +3,6 @@ A custom launch script and .desktop entity to run a windows docker container and
 
 *It DOES NOT include the WinApps windows docker container!*
 
-To set it up go to https://github.com/winapps-org/winapps/ and watch 
+To set it up go to https://github.com/winapps-org/winapps/ and watch https://youtu.be/D77wlIFuuDg
 
 Don't forget to change all placeholders with real values, both in launcher.sh and in .desktop
