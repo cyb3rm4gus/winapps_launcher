@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=WinApps container
-Exec=/usr/bin/env bash -lc '/home/<linux_user>/winapps/onoff.sh'
+Exec=/usr/bin/env bash -lc '/home/<linux_user>/winapps/launcher.sh'
 Terminal=true
 Categories=Utility;
 Icon=mintstick-logo-windows
