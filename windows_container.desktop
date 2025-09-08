@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=WinApps container
+Exec=/usr/bin/env bash -lc '/home/<linux_user>/winapps/onoff.sh'
+Terminal=true
+Categories=Utility;
+Icon=mintstick-logo-windows
